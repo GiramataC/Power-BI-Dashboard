@@ -1,0 +1,9 @@
+# Ignore unzipped folder
+OneDrive_2026-05-13/
+
+# Ignore any zip file with that name
+OneDrive_2026-05-13.zip
+
+# Extra safe (captures any similar variants)
+OneDrive_2026-05-13*/
+OneDrive_2026-05-13*.zip
